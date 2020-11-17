@@ -3,5 +3,5 @@
 #include "header.h"
 
 void content() {
-  printf("%d\n", test());
+  printf("%d\n",MAX(5,7));
 }
