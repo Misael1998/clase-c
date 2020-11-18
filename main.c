@@ -1,10 +1,10 @@
 #include <stdio.h>
-#include "header.h"
-#include "testHeader.h"
+//Importar las cabeceras
 
 int main(){
   printf("Hello world \n");
-  printf("%d\n", test());
-  content();
+
+  //Ejecutar las funcinoes.
+  
   return 0;
 }
