@@ -8,6 +8,6 @@
 - [ ] Entradas y salidas
 - [ ] Lectura y escritura de archivos
 
-#Reto #1
+# Reto #1
 
 - Crear dos archvos cabeceras, uno que devuelta el resultado de una formula su elección, y otro que imprima estos resultados.
